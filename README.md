@@ -1,0 +1,2 @@
+# evnTraining
+Logic building class
